@@ -14,7 +14,7 @@ Criar um servidor Web Linux com Nginx+PHP no Ubuntu Server 18 e rodar o código 
 
 ## Resultados esperado
 
-- Arquivos de resposta gerado pela aplicação de percentages 
+- Arquivos de resposta gerado pela aplicação de perguntas 
 - Documentação simples
     - Lista de comando executados
     - Software e versões instaladas 
