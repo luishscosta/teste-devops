@@ -1,6 +1,6 @@
 Criar um servidor Web Linux com Nginx+PHP no Ubuntu Server 18 e rodar o código no link https://github.com/luishscosta/teste-devops, que deve ter o seguinte resultado:
 
-![image](prova.png)
+![image](prova2.png)
 
 # Requisitos
 
