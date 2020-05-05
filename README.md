@@ -10,7 +10,7 @@ Criar um servidor Web Linux com Nginx+PHP no Ubuntu Server 18 e rodar o código 
 - Acesso via terminal remoto (Shell)
 - Servidor Web NGinx + PHP 
 - Código PHP instalado
-- Acessar a URL http://**seudominioouip**/perguntas
+- Acessar a URL http://**seudominioouip**/perguntas deve abrir a página acima
 
 ## Resultados esperado
 
