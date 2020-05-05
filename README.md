@@ -19,6 +19,6 @@ Criar um servidor Web Linux com Nginx+PHP no Ubuntu Server 18 e rodar o código 
     - Lista de comando executados
     - Software e versões instaladas 
 - Script com instalação e configuração do servidor na linguagem/ferramenta de sua preferência (Opcional)
-  - Este script será executado em uma maquina Ubuntu Server 18 e a unica interação humana será o comando `sh instalar.sh`
+  - Este script será executado em uma máquina Ubuntu Server 18 e a unica interação humana será o comando `sh instalar.sh`
 - Referências utilizadas
 - Enviar todos itens acima para um repositório do GitHub e nos responder o e-mail da prova com o Link
