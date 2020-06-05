@@ -17,9 +17,6 @@
 </head>
 
 <body style="padding-left: 20%;padding-right: 20%;padding-top:3%">
-
-    <!-- Qual o significado da vida, do universo e tudo mais? -->
-
     <?php
         
 
@@ -33,7 +30,7 @@
             if ($resultado > 15) {
                 $resultado = $resultado -$c + $b;
             } else {
-                $resultado += $c - $b + $a;
+                $resultado += $c - $b + $a
             }
         } elseif ($b < 30 && $b < $c && $b + $c == 52) {
             $resultado = $a + $c;
